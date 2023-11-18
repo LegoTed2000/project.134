@@ -1,0 +1,27 @@
+.heading {
+    font-size: 25px;
+    width: 100%;
+    font-weight: bold;
+    margin: 0;
+    height: 50px;
+}
+
+#start , #number_of_objects , #start {
+    font-size: 20px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: whitesmoke;
+    bottom: 0;
+    width: 100%;
+    background:linear-gradient(purple,blue,pink) ;
+    line-height: 5;
+    text-align: center;
+    height: 70px;
+    font-weight: bold;
+}
+
+body {
+    background-size: cover;
+}
